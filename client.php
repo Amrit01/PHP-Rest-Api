@@ -6,7 +6,7 @@
 Uncomment the below line and put the actual client url
 This is also the url, where the actual request will be made 
 **/
-$url = '{}put your url here}';
+$url = '{put your url here}';
 
 // Actual Post Request Here
 $data = array(
